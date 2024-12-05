@@ -28,6 +28,7 @@
   * [Arrays](exercises/leetcode/arrays/README.md)
     * [Duplicate Zeros](exercises/leetcode/arrays/duplicate-zeros.md)
     * [Merge Sorted Array](exercises/leetcode/arrays/merge-sorted-array.md)
+    * [Detect Pattern of Length M Repeated K or More Times](exercises/leetcode/arrays/detect-pattern-of-length-m-repeated-k-or-more-times.md)
   * [Linked List](exercises/leetcode/linked-list/README.md)
     * [Single LinkedList](exercises/leetcode/linked-list/single-linkedlist.md)
     * [Double LinkedList](exercises/leetcode/linked-list/double-linkedlist.md)
