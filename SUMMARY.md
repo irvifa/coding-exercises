@@ -55,6 +55,7 @@
     * [Maximum Subarray](exercises/leetcode/dynamic-programming/maximum-subarray.md)
   * [Math](exercises/leetcode/math/README.md)
     * [Rotate Array](exercises/leetcode/math/rotate-array.md)
+    * [Convert Integer to the Sum of Two No-Zero Integers](exercises/leetcode/math/convert-integer-to-the-sum-of-two-no-zero-integers.md)
 * [Hackerrank](exercises/hackerrank/README.md)
   * [Tree](exercises/hackerrank/tree/README.md)
     * [Binary Tree Height](exercises/hackerrank/tree/binary-tree-height.md)
